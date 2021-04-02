@@ -27,6 +27,8 @@ public class Read_write_textFile {
 		rd.write("This is line 5");
 		rd.newLine();
 		rd.write("This is line 6");
+		rd.newLine();
+		rd.write("This is line 7");
 		rd.flush();
 		
 		
